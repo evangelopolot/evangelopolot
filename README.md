@@ -2,6 +2,7 @@
 
 <p>Hi there! I'm a passionate undergrad computer science student currently pursuing a software engineering placement. I have a strong foundation in various programming languages and technologies, including JavaScript, Java, JUnit, Node.js, MongoDB, HTML, CSS, and C++.</p>
 <br>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
