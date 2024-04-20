@@ -1,6 +1,6 @@
-## 👋 I'm Evangel
+## 👋 About Me
 
-I'm a computer science student currently on a software engineering placement.
+Hi there! I'm a passionate undergrad computer science student currently pursuing a software engineering placement. I have a strong foundation in various programming languages and technologies, including JavaScript, Java, JUnit, Node.js, MongoDB, HTML, CSS, and C++.
 --- 
 ### 🧰 Languages and Tools
 
