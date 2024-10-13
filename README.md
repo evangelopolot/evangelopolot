@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-<p>Hi there! I'm a passionate undergrad computer science student currently pursuing a software engineering placement. I have a strong foundation in various programming languages and technologies, including JavaScript, Java, JUnit, Node.js, MongoDB, HTML, CSS, and C++.</p>
+<p>Hi there! I'm a passionate undergrad computer science student and junior software engineer. I have a strong foundation in various programming languages and technologies, including JavaScript, Java, JUnit, Node.js, MongoDB, HTML, CSS, and C++.</p>
 <hr>
 
 ### 🧰 Languages and Tools
